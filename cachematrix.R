@@ -1,3 +1,4 @@
+## The base for this function was taken from Programming Assignment - calculating mean of vector
 ## The function stores the value of matrix inverse in cache
 ## to save time on costly computations
 ## If inverse of the function was not stored before - it will be computed
